@@ -5,11 +5,6 @@
 
 <hr />
 
-<p align="center" >
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=22ebbk2ipti2nu4bqea43qzny&cover_image=true&theme=default" />
-</p>
-<hr />
-
 
 ### :telephone_receiver: Contacts: 
 <div align="left">
