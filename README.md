@@ -14,6 +14,6 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeoRogelioSilva&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeoRogelioSilva&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
