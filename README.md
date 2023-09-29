@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-f8dywcs2z-leorogeliosilvas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/LeoRogelio)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wignxgp6yr4zc7ytcyj6gukn7e&cover_image=true&theme=default&show_offline=false&background_color=3137f2&interchange=false&bar_color=3ed048)](https://github.com/kittinan/spotify-github-profile)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeoRogelioSilva&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
