@@ -41,6 +41,8 @@
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="reactjs" style="width: 10vw;"  title="ReactJS"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angularjs" style="width: 10vw;" title="AngularJS" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:leorogelio1202@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" alt="Figma" style="width: 10vw;" title="Figma" /></a>
 
 ## Testing
 
