@@ -1,14 +1,16 @@
 
 <div align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7631D&background=149CFF2C&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+perfil!+++++++++++++" alt="Typing SVG" /></a>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=55dd55&background=454545&center=true&vCenter=true&width=435&lines=Seja+bem+vindo+ao+meu+perfil!+++++++++++++" alt="Typing SVG" /></a>  
 </div>
 
 <hr />
 
-
-### :telephone_receiver: Contacts: 
-<div align="left">
+ 
+<div align="center">
+  :telephone_receiver: Contatos:
+  <br>
   <a href="mailto:leorogelio1202@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5512997849493&text="><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="whatsapp" style="width: 40px;"/></a>
 </div>
 <hr />
 
