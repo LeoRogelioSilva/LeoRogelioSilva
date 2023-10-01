@@ -3,17 +3,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=55dd55&background=454545&center=true&vCenter=true&width=435&lines=Seja+bem+vindo+ao+meu+perfil!+++++++++++++" alt="Typing SVG" /></a>  
 </div>
 
-<hr />
-
  
 <div align="center" style="justify-content: space-around;">
-  :telephone_receiver: Contatos:
-  <br>
   <a href="mailto:leorogelio1202@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5512997849493&text="><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="whatsapp" style="width: 40px;"/></a>
 </div>
-<hr />
 
 <div align="center">
 
