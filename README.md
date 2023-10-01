@@ -18,6 +18,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wignxgp6yr4zc7ytcyj6gukn7e&cover_image=true&theme=default&show_offline=false&background_color=3f3f40&interchange=false&bar_color=46c32c)](https://github.com/kittinan/spotify-github-profile)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeoRogelioSilva&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeoRogelioSilva&theme=vue-dark&hide_border=true&border_radius=7.1&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=500&border=000000&background=90%2C003627%2C021740)](https://git.io/streak-stats)
 </div>
