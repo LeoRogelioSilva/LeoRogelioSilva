@@ -8,6 +8,8 @@
     <a href="mailto:leorogelio1202@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"   style="width: 5%;"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://api.whatsapp.com/send?phone=5512997849493&text="><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="whatsapp" style="width: 5%;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/leonardo-rogelio-silva-0930501a5/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png" alt="LinkedIn" style="width: 5%;"/></a>
   
   
   <hr />
@@ -40,7 +42,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="reactjs" style="width: 10vw;"  title="ReactJS"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:leorogelio1202@gmail.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angularjs" style="width: 10vw;" title="AngularJS" /></a>
+<a href="https://github.com/LeoRogelioSilva/mini_escola"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angularjs" style="width: 10vw;" title="AngularJS" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" alt="Figma" style="width: 10vw;" title="Figma" /></a>
 
@@ -54,21 +56,30 @@
 
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png" alt="FastAPI" style="width: 10vw;" title="FastAPI" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:leorogelio1202@gmail.com"><img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" style="width: 10vw;" title="NestJS" /></a>
+<a href="https://github.com/LeoRogelioSilva/mini_escola"><img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" style="width: 10vw;" title="NestJS" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/120px-Spring_Boot.svg.png" alt="Spring" style="width: 10vw;" title="Spring" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" alt="PHP" style="width: 10vw;" title="PHP" /></a>
 
+## Banco de Dados
+
+<a href="https://github.com/LeoRogelioSilva/mini_escola"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/150px-Postgresql_elephant.svg.png" alt="Postgres" style="width: 10vw;" title="Postgres" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/LeoRogelioSilva/FormularioPHP"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" style="width: 10vw;" title="MySQL" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/300px-SQLite370.svg.png" alt="SqLite" style="width: 10vw;" title="SqLite" /></a>
+
+
 ## DevOps
 
 <a href="#"><img src="https://mlohrktvfr9b.i.optimole.com/cb:5Boq.164d9/w:auto/h:auto/q:75/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-147-GIT-ICON-1.png" alt="GIT" style="width: 10vw;" title="GIT" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://blog.codewithdan.com/wp-content/uploads/2023/06/Docker-Logo-1024x576.png" alt="Docker" style="width: 10vw;" title="Docker" /></a>
+<a href="https://github.com/LeoRogelioSilva/mini_escola"><img src="https://blog.codewithdan.com/wp-content/uploads/2023/06/Docker-Logo-1024x576.png" alt="Docker" style="width: 10vw;" title="Docker" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" style="width: 10vw;" title="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:leorogelio1202@gmail.com"><img src="https://gitlab.com/uploads/-/system/project/avatar/32331317/logo-extra-whitespace.png?width=64" alt="GitBal" style="width: 10vw;" title="GitLab" /></a>
+<a href="https://gitlab.com/LeoRogelioSilva"><img src="https://gitlab.com/uploads/-/system/project/avatar/32331317/logo-extra-whitespace.png?width=64" alt="GitBal" style="width: 10vw;" title="GitLab" /></a>
 
 ## Interfaces de Desenvolvimento
 
