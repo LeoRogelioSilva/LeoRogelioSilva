@@ -48,7 +48,7 @@
 
 ## Back End
 
-<a href="mailto:leorogelio1202@gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0I0OeDOaUbsA1EwMD7zSl5ix3GrO5UfjaIew-bRuoqHMQz32L7krtQDanNmsbAxQm_Q&usqp=CAU" alt="FastAPI" style="width: 10vw;" title="FastAPI" /></a>
+<a href="mailto:leorogelio1202@gmail.com"><img src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png" alt="FastAPI" style="width: 10vw;" title="FastAPI" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" style="width: 10vw;" title="NestJS" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" style="width: 10vw;" title="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:leorogelio1202@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/220px-GitLab_logo_%282%29.svg.png" alt="GitBal" style="width: 10vw;" title="GitLab" /></a>
+<a href="mailto:leorogelio1202@gmail.com"><img src="https://gitlab.com/uploads/-/system/project/avatar/32331317/logo-extra-whitespace.png?width=64" alt="GitBal" style="width: 10vw;" title="GitLab" /></a>
 
 ## Interfaces de Desenvolvimento
 
@@ -72,7 +72,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/64px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" style="width: 10vw;" title="IntelliJ" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s176-c-k-c0x00ffffff-no-rj" alt="Postman" style="width: 10vw;" title="Postman" /></a>
+<a href="#"><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="Postman" style="width: 10vw;" title="Postman" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/128px-DBeaver_logo.svg.png" alt="DBeaver" style="width: 10vw;" title="DBeaver" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
