@@ -6,10 +6,11 @@
 <hr />
 
  
-<div align="center">
+<div align="center" style="justify-content: space-around;">
   :telephone_receiver: Contatos:
   <br>
   <a href="mailto:leorogelio1202@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5512997849493&text="><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="whatsapp" style="width: 40px;"/></a>
 </div>
 <hr />
