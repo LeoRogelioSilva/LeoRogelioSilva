@@ -1,5 +1,8 @@
 
+
+
 <div align="center" >
+    <img src="https://media.tenor.com/bWUeVRqW9-IAAAAj/fast-cat-cat-excited.gif" alt="email"   style="width: 55%;"/> <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=55dd55&background=454545&center=true&vCenter=true&width=435&lines=Seja+bem+vindo+ao+meu+perfil!+++++++++++++" alt="Typing SVG" /></a>  
   
   <br>
