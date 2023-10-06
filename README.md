@@ -9,7 +9,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://api.whatsapp.com/send?phone=5512997849493&text="><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="whatsapp" style="width: 5%;"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/leonardo-rogelio-silva-0930501a5/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png" alt="LinkedIn" style="width: 5%;"/></a>
+    <a href="https://www.linkedin.com/in/leonardo-rogelio-silva-0930501a5/"><img src="https://rino3.com.br/blog/wp-content/uploads/2018/12/Linkedin-logo-1-550x550-300x300.png" alt="LinkedIn" style="width: 5%;"/></a>
   
   
   <hr />
