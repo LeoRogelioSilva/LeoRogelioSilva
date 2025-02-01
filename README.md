@@ -4,16 +4,16 @@
 <br>
    
 ### Contatos 
-<br> <br>
+<br>
 <a href="mailto:leorogelio1202@gmail.com"><img src="https://github.com/LeoRogelioSilva/myportfolio/blob/main/src/assets/images/gmail.png" alt="email"   style="width: 3%;"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=5512997849493&text="><img src="https://github.com/LeoRogelioSilva/myportfolio/blob/main/src/assets/images/wpp.png" alt="whatsapp" style="width: 3%;"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leonardo-rogelio-silva-0930501a5/"><img src="https://github.com/LeoRogelioSilva/myportfolio/blob/main/src/assets/images/linkedin.png" alt="LinkedIn" style="width: 3%;"/></a>
-<br>
+<br><br>
 
 ### Portfolio
-<br><br>
+<br>
 <a href="https://leorogeliosilva.github.io/myportfolio/"><img src="https://github.com/LeoRogelioSilva/myportfolio/blob/main/src/assets/images/leoro.gif" alt="LinkedIn" style="width: 10%;"/></a>
 <br>
   
